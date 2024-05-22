@@ -7,3 +7,6 @@
   
   🪴 Currently learning **Typescript, NextJS, and Tailwind**
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
