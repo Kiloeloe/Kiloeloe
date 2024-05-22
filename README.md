@@ -5,5 +5,5 @@
 <div align = "center">
   📌 I'm from Indonesia
   
-  🪴 Currently learning **Tailwind, Typescript, and NextJS**
+  🪴 Currently learning **Typescript, NextJS, and Tailwind**
 </div>
