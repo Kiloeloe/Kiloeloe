@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2024 - To: 06 August 2024
+From: 31 July 2024 - To: 07 August 2024
 
-CSHTML       2 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-Binary       2 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
-JavaScript   2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-C#           1 hr 49 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Binary       5 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   37.13 %
+CSHTML       3 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.34 %
+JavaScript   2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+C#           2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
