@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
 CSHTML       5 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   46.69 %
 C#           3 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   29.17 %
