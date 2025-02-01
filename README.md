@@ -11,12 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2025 - To: 30 January 2025
+From: 24 January 2025 - To: 31 January 2025
 
-Go           1 hr 44 mins    █████████████▒░░░░░░░░░░░   52.74 %
-TypeScript   1 hr 25 mins    ███████████░░░░░░░░░░░░░░   43.60 %
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go   1 hr 44 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
