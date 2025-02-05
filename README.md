@@ -11,9 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-Go   1 hr 44 mins    █████████████████████████   100.00 %
+SQL    4 hrs 59 mins   ███████████████░░░░░░░░░░   60.44 %
+Go     1 hr 44 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+JSON   1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
 ```
 
 <!--END_SECTION:waka-->
