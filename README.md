@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2025 - To: 07 February 2025
+From: 01 February 2025 - To: 08 February 2025
 
 SQL     13 hrs 47 mins  █████████████████▓░░░░░░░   70.56 %
 JSON    4 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
