@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2025 - To: 17 February 2025
+From: 11 February 2025 - To: 18 February 2025
 
-C#           15 hrs 33 mins  ██████████████░░░░░░░░░░░   55.50 %
-TypeScript   5 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-JSON         3 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Binary       3 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Other        59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+C#           13 hrs 38 mins  ██████████▓░░░░░░░░░░░░░░   43.19 %
+TypeScript   10 hrs 29 mins  ████████▒░░░░░░░░░░░░░░░░   33.21 %
+Binary       3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+JSON         2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Other        44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
