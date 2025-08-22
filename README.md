@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2025 - To: 20 August 2025
+From: 14 August 2025 - To: 21 August 2025
 
-C#           8 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.89 %
-Binary       7 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.47 %
-TypeScript   4 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-SQL          1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+C#           9 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   40.92 %
+Binary       7 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.44 %
+TypeScript   4 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+SQL          1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
