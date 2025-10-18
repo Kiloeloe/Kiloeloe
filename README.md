@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
 TypeScript   43 mins         ███████████████████▒░░░░░   77.14 %
 C#           9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
