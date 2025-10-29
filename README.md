@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2025 - To: 27 October 2025
+From: 21 October 2025 - To: 28 October 2025
 
-No activity tracked
+TypeScript   1 hr 58 mins    ████████████▓░░░░░░░░░░░░   51.14 %
+C#           1 hr 34 mins    ██████████▒░░░░░░░░░░░░░░   40.87 %
+JSON         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Binary       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
