@@ -11,11 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-C#       5 hrs 14 mins   ██████████████████████▓░░   90.33 %
-Binary   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C#       4 hrs 7 mins    ███████████████████████▓░   94.31 %
+Binary   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->
