@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-No activity tracked
+TypeScript   48 mins         ███████████████░░░░░░░░░░   59.80 %
+C#           16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+JSON         15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Binary       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
