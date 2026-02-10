@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 08 February 2026
+From: 02 February 2026 - To: 09 February 2026
 
-TypeScript   16 hrs 48 mins  █████████▓░░░░░░░░░░░░░░░   39.22 %
-C#           16 hrs 20 mins  █████████▓░░░░░░░░░░░░░░░   38.11 %
-Binary       8 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-JSON         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Other        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript   19 hrs 24 mins  ██████████░░░░░░░░░░░░░░░   40.17 %
+C#           17 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   36.81 %
+Binary       9 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+JSON         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+SCSS         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
