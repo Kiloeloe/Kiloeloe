@@ -11,11 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2026 - To: 14 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-C++          3 hrs 57 mins         █████████████████████████   99.48 %
-TypeScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C++     7 hrs 11 mins         █████████████████████████   99.99 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
